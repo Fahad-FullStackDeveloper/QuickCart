@@ -86,10 +86,12 @@ This project uses the following versions:
 - Updated responsive design with the latest Tailwind CSS features
 - Bug fixes and performance improvements
 
-#### v1.36.15
-- Minor bug fixes and performance improvements
-
 #### v1.35.15
+- Install mongoose db
+- setup connection in db.js
+- Created User updated
+
+#### v1.36.15
 - Updates README.md
 
 ## Project Structure
