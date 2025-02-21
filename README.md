@@ -1,3 +1,33 @@
+
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Project Structure
+
+- `app/`: Contains the main application components and pages
+- `components/`: Reusable React components
+- `context/`: React context for state management
+- `lib/`: Utility functions and helpers
+- `public/`: Static assets
+- `styles/`: Global styles and Tailwind CSS configuration
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+[Specify your license here, e.g., MIT License]
+
+## Contact
+
+For any inquiries, please reach out to [your contact email].
+
+## Acknowledgements
+
+- [List any third-party resources, libraries, or inspirations used in the project]
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
