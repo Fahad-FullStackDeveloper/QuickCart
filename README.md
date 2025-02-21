@@ -1,5 +1,97 @@
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Version Upgrades
+
+This project uses the following versions:
+- QuickCart: v1.35.15
+- Node.js: v16.13.0
+- Next.js: v12.0.7
+- React: v17.0.2
+- Tailwind CSS: v2.2.19
+
+### QuickCart Version History
+
+#### v1.0.0
+- Initial release with basic e-commerce functionalities
+- User authentication and authorization
+- Product listing and detail pages
+- Shopping cart and checkout process
+- Responsive design with Tailwind CSS
+
+#### v1.1.0
+- Added user profile management
+- Improved product search functionality
+- Minor bug fixes and UI improvements
+
+#### v1.2.0
+- Integrated payment gateway (Stripe)
+- Enhanced order management system
+- Performance optimizations
+
+#### v1.3.0
+- Added product reviews and ratings
+- Improved product filtering and sorting options
+- Updated Tailwind CSS to v2.1.0
+
+#### v1.4.0
+- Introduced wishlist feature
+- Enhanced security measures
+- Bug fixes and performance improvements
+
+#### v1.5.0
+- Added support for multiple languages
+- Improved mobile responsiveness
+- Updated dependencies
+
+#### v1.6.0
+- Integrated social media login options
+- Enhanced admin dashboard
+- Minor UI/UX improvements
+
+#### v1.7.0
+- Added support for multiple payment gateways
+- Improved checkout process
+- Updated Tailwind CSS to v2.2.0
+
+#### v1.8.0
+- Introduced discount and coupon system
+- Enhanced product detail page
+- Bug fixes and performance improvements
+
+#### v1.9.0
+- Added order tracking feature
+- Improved user notifications
+- Updated dependencies
+
+#### v1.10.0
+- Enhanced product recommendations
+- Improved search engine optimization (SEO)
+- Minor UI/UX improvements
+
+#### v1.20.0
+- Added support for digital products
+- Improved user account settings
+- Bug fixes and performance improvements
+
+#### v1.30.0
+- Introduced subscription-based products
+- Enhanced reporting and analytics
+- Updated Tailwind CSS to v2.2.10
+
+#### v1.35.0
+- Improved user authentication and authorization
+- Enhanced product listing and detail pages with new filters and sorting options
+- Added support for multiple payment gateways
+- Optimized shopping cart and checkout process for better performance
+- Updated responsive design with the latest Tailwind CSS features
+- Bug fixes and performance improvements
+
+#### v1.36.15
+- Minor bug fixes and performance improvements
+
+#### v1.35.15
+- Updates README.md
+
 ## Project Structure
 
 - `app/`: Contains the main application components and pages
@@ -15,7 +107,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Specify your license here, e.g., MIT License]
+This project is licensed under the MIT License.
 
 ## Contact
 
